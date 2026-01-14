@@ -2,6 +2,7 @@
 
 Chatbot de asesoría financiera especializado en el mercado peruano, con capacidades de RAG (Retrieval-Augmented Generation), conexion a API del BCRP y módulos de seguridad.
 
+LINK de Space en HuggingFace: https://huggingface.co/spaces/Sergio220598/AsesorFinancier-FinanBot
 ---
 
 ## 📁 Estructura del Proyecto
