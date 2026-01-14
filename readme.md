@@ -462,38 +462,3 @@ chainlit run app.py -w
 6. **Valida** todas las entradas y salidas
 7. **No almacenes** datos sensibles de usuarios en logs
 
----
-
-## 📈 Roadmap
-
-- [ ] Agregar soporte para múltiples idiomas
-- [ ] Implementar caché de consultas frecuentes
-- [ ] Dashboard de analytics de consultas
-- [ ] Integración con APIs bancarias reales
-- [ ] Sistema de feedback de usuarios
-- [ ] A/B testing de prompts
-- [ ] Export de conversaciones a PDF
-
----
-
-## 📄 Licencia
-
-Este proyecto es de código abierto bajo licencia MIT.
-
----
-
-## 👥 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor:
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
----
-
-## 📞 Contacto
-
-Para preguntas o soporte, contacta al equipo de desarrollo.
